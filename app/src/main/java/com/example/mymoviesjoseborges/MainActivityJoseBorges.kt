@@ -36,7 +36,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             MyMoviesJoseBorgesTheme() {
-//aasdasdl
+//aasdasdlkut
 
             val navController= rememberNavController()
             NavHost(navController = navController, startDestination = "main"){
